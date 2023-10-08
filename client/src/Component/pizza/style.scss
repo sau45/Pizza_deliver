@@ -1,0 +1,19 @@
+.pizza{
+    h1{
+        font-size: 20px !important;
+    }
+    .flex-container{
+        display: flex !important;
+        .btn{
+            background-color: red !important;
+            color: white;
+        }
+        select{
+            box-shadow: none;
+            border-color: black;
+        }
+    }
+   
+   
+    
+}

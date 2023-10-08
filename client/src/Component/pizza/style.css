@@ -1,0 +1,14 @@
+.pizza h1 {
+  font-size: 20px !important;
+}
+.pizza .flex-container {
+  display: flex !important;
+}
+.pizza .flex-container .btn {
+  background-color: red !important;
+  color: white;
+}
+.pizza .flex-container select {
+  box-shadow: none;
+  border-color: black;
+}/*# sourceMappingURL=style.css.map */
